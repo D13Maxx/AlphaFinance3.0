@@ -1,0 +1,13 @@
+dataclasses
+typing
+pytest
+pymupdf
+streamlit
+plotly
+fastapi
+uvicorn
+pydantic
+requests
+numpy
+torch
+transformers
